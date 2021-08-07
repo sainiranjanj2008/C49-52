@@ -1,0 +1,38 @@
+h1{
+    color:rgb(58, 25, 175);
+    padding-left: 30px;
+    padding-right:30px;
+}
+*{ 
+ border:solid;
+}
+p{
+    color:rgb(63, 27, 223);
+}
+.header * {
+    border:solid;
+}
+.header{
+    background-color: #eb0ba0;
+    display:flex;
+    justify-content: space-between;
+}
+.description{
+    background-color: #eb0ba0
+}
+.body{
+    background-color: #eb0ba0
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:blueviolet;
+}
+.menu{
+    margin-right:30px;
+}
+.description{
+    padding-left: 340px;
+    padding-right: 340px;
+}
